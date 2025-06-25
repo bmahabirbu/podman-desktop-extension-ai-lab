@@ -24,6 +24,20 @@
       "frameworks": ["streamlit", "langchain"]
     },
     {
+      "id": "chatbot-llama-stack",
+      "description": "This recipe Shows Llamastack in Action",
+      "name": "Chatbot using Llama Stack",
+      "repository": "https://github.com/feloy/chatbot-llama-stack-recipe",
+      "ref": "main",
+      "icon": "natural-language-processing",
+      "categories": ["natural-language-processing"],
+      "basedir": "/",
+      "readme": "# Chat Application\n\n",
+      "backend": "llama-stack",
+      "languages": ["python"],
+      "frameworks": ["streamlit", "llama-stack"]
+    },
+    {
       "id": "chatbot-pydantic-ai",
       "description": "This recipe provides a blueprint for developers to create their own AI-powered chat applications with the pydantic framework using Streamlit",
       "name": "Chatbot PydanticAI",
